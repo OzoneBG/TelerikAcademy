@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\6. Binary number to hex\bin\Debug\_6.Binary_number_to_hex.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\6. Binary number to hex\bin\Debug\_6.Binary_number_to_hex.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\6. Binary number to hex\bin\Debug\_6.Binary_number_to_hex.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\6. Binary number to hex\obj\Debug\_6.Binary_number_to_hex.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\6. Binary number to hex\obj\Debug\_6.Binary_number_to_hex.pdb

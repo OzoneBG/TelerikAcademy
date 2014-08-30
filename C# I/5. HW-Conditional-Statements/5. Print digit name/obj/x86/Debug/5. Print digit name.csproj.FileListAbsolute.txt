@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\5. Print digit name\bin\Debug\_5.Print_digit_name.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\5. Print digit name\bin\Debug\_5.Print_digit_name.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\5. Print digit name\obj\x86\Debug\_5.Print_digit_name.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\5. Print digit name\obj\x86\Debug\_5.Print_digit_name.pdb

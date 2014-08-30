@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\is_Female\obj\x86\Debug\is_Female.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\is_Female\obj\x86\Debug\is_Female.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\is_Female\bin\Debug\is_Female.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\is_Female\bin\Debug\is_Female.pdb

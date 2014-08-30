@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\12. Change bits on given position\bin\Debug\_12.Change_bits_on_given_position.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\12. Change bits on given position\bin\Debug\_12.Change_bits_on_given_position.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\12. Change bits on given position\obj\x86\Debug\_12.Change_bits_on_given_position.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\12. Change bits on given position\obj\x86\Debug\_12.Change_bits_on_given_position.pdb

@@ -1,0 +1,9 @@
+D:\c#\DomStrings\20.ExcractAllPalindromes\bin\Debug\20.ExcractAllPalindromes.exe
+D:\c#\DomStrings\20.ExcractAllPalindromes\bin\Debug\20.ExcractAllPalindromes.pdb
+D:\c#\DomStrings\20.ExcractAllPalindromes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\20.ExcractAllPalindromes\obj\x86\Debug\20.ExcractAllPalindromes.exe
+D:\c#\DomStrings\20.ExcractAllPalindromes\obj\x86\Debug\20.ExcractAllPalindromes.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\20.ExcractAllPalindromes\obj\x86\Debug\20.ExcractAllPalindromes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\20.ExcractAllPalindromes\obj\x86\Debug\20.ExcractAllPalindromes.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\20.ExcractAllPalindromes\bin\Debug\20.ExcractAllPalindromes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\20.ExcractAllPalindromes\bin\Debug\20.ExcractAllPalindromes.pdb

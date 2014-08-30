@@ -1,0 +1,9 @@
+D:\c#\DomStrings\11.NumeralSystems\bin\Debug\11.NumeralSystems.exe
+D:\c#\DomStrings\11.NumeralSystems\bin\Debug\11.NumeralSystems.pdb
+D:\c#\DomStrings\11.NumeralSystems\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\11.NumeralSystems\obj\x86\Debug\11.NumeralSystems.exe
+D:\c#\DomStrings\11.NumeralSystems\obj\x86\Debug\11.NumeralSystems.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\11.NumeralSystems\bin\Debug\11.NumeralSystems.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\11.NumeralSystems\bin\Debug\11.NumeralSystems.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\11.NumeralSystems\obj\x86\Debug\11.NumeralSystems.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\11.NumeralSystems\obj\x86\Debug\11.NumeralSystems.pdb

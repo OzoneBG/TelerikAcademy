@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Exchange_Values\bin\Debug\Exchange_Values.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Exchange_Values\bin\Debug\Exchange_Values.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Exchange_Values\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Exchange_Values\obj\x86\Debug\Exchange_Values.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Exchange_Values\obj\x86\Debug\Exchange_Values.pdb

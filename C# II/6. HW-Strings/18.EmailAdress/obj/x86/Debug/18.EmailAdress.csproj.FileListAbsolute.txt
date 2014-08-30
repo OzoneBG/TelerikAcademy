@@ -1,0 +1,9 @@
+D:\c#\DomStrings\18.EmailAdress\bin\Debug\18.EmailAdress.exe
+D:\c#\DomStrings\18.EmailAdress\bin\Debug\18.EmailAdress.pdb
+D:\c#\DomStrings\18.EmailAdress\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\18.EmailAdress\obj\x86\Debug\18.EmailAdress.exe
+D:\c#\DomStrings\18.EmailAdress\obj\x86\Debug\18.EmailAdress.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\18.EmailAdress\obj\x86\Debug\18.EmailAdress.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\18.EmailAdress\obj\x86\Debug\18.EmailAdress.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\18.EmailAdress\bin\Debug\18.EmailAdress.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\18.EmailAdress\bin\Debug\18.EmailAdress.pdb

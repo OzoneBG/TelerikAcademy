@@ -1,0 +1,5 @@
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\6. First index of array XXXXXX\bin\Debug\_6.First_index_of_array_XXXXXX.exe.config
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\6. First index of array XXXXXX\bin\Debug\_6.First_index_of_array_XXXXXX.exe
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\6. First index of array XXXXXX\bin\Debug\_6.First_index_of_array_XXXXXX.pdb
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\6. First index of array XXXXXX\obj\Debug\_6.First_index_of_array_XXXXXX.exe
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\6. First index of array XXXXXX\obj\Debug\_6.First_index_of_array_XXXXXX.pdb

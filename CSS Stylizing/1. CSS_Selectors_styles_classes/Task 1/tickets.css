@@ -1,0 +1,55 @@
+html
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:grey;
+	font-family:Arial;
+}
+
+#online
+{
+	background-color:green;
+	width:5px;
+	height:5px;
+	border-radius:10px;
+	float:left;
+}
+
+#red
+{
+	color:red;
+	font-weight:bold;
+}
+
+#name
+{
+	color: yellow;
+	float:left;
+}
+
+#yellow
+{
+	color: yellow;
+}
+
+#grey
+{
+	color:#CCC;
+}
+
+#orange
+{
+	color:orange;
+	font-weight:bold;
+}
+#white
+{
+	color:white;
+	font-style:italic;
+}

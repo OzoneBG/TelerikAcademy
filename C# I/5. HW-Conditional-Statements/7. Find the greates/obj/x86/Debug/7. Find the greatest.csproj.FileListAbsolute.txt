@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\7. Find the greates\bin\Debug\_7.Find_the_greates.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\7. Find the greates\bin\Debug\_7.Find_the_greates.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\7. Find the greates\obj\x86\Debug\_7.Find_the_greates.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\7. Find the greates\obj\x86\Debug\_7.Find_the_greates.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\8. Trapezoid_Area\bin\Debug\_8.Trapezoid_Area.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\8. Trapezoid_Area\bin\Debug\_8.Trapezoid_Area.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\8. Trapezoid_Area\obj\x86\Debug\_8.Trapezoid_Area.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\8. Trapezoid_Area\obj\x86\Debug\_8.Trapezoid_Area.pdb

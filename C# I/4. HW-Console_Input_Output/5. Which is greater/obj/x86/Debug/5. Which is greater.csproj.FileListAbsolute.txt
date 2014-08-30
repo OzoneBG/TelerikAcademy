@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\5. Which is greater\bin\Debug\_5.Which_is_greater.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\5. Which is greater\bin\Debug\_5.Which_is_greater.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\5. Which is greater\obj\x86\Debug\_5.Which_is_greater.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\5. Which is greater\obj\x86\Debug\_5.Which_is_greater.pdb

@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\15. Sieve of Erasthothenes\bin\Debug\_15.Sieve_of_Erasthothenes.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\15. Sieve of Erasthothenes\bin\Debug\_15.Sieve_of_Erasthothenes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\15. Sieve of Erasthothenes\bin\Debug\_15.Sieve_of_Erasthothenes.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\15. Sieve of Erasthothenes\obj\Debug\_15.Sieve_of_Erasthothenes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\15. Sieve of Erasthothenes\obj\Debug\_15.Sieve_of_Erasthothenes.pdb

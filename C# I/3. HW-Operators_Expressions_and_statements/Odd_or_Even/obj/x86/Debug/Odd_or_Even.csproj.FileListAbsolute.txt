@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\bin\Debug\Odd_or_Even.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\bin\Debug\Odd_or_Even.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\obj\x86\Debug\Odd_or_Even.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\obj\x86\Debug\Odd_or_Even.pdb

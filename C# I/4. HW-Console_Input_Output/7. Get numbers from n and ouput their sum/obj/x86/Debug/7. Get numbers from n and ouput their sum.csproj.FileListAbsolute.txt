@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\7. Get numbers from n and ouput their sum\bin\Debug\_7.Get_numbers_from_n_and_ouput_their_sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\7. Get numbers from n and ouput their sum\bin\Debug\_7.Get_numbers_from_n_and_ouput_their_sum.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\7. Get numbers from n and ouput their sum\obj\x86\Debug\_7.Get_numbers_from_n_and_ouput_their_sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\7. Get numbers from n and ouput their sum\obj\x86\Debug\_7.Get_numbers_from_n_and_ouput_their_sum.pdb

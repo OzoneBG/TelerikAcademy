@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\bin\Debug\_1.Leap_year.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\bin\Debug\_1.Leap_year.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\bin\Debug\_1.Leap_year.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\obj\Debug\1. Leap year.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\obj\Debug\_1.Leap_year.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\1. Leap year\obj\Debug\_1.Leap_year.pdb

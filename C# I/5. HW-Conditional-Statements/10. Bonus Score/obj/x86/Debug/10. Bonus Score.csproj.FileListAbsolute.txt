@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\10. Bonus Score\bin\Debug\_10.Bonus_Score.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\10. Bonus Score\bin\Debug\_10.Bonus_Score.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\10. Bonus Score\obj\x86\Debug\_10.Bonus_Score.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\10. Bonus Score\obj\x86\Debug\_10.Bonus_Score.pdb

@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\bin\Debug\_3.Decimal_number_to_Hex.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\bin\Debug\_3.Decimal_number_to_Hex.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\bin\Debug\_3.Decimal_number_to_Hex.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\obj\Debug\3. Decimal number to Hex.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\obj\Debug\_3.Decimal_number_to_Hex.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\3. Decimal number to Hex\obj\Debug\_3.Decimal_number_to_Hex.pdb

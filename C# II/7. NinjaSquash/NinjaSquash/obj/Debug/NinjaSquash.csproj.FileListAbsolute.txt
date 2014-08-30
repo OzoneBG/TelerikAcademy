@@ -1,0 +1,6 @@
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.exe.config
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.exe
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.pdb
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.exe
+C:\Users\MISHO\Source\Workspaces\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.pdb

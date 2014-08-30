@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\6. Quadratic equation\bin\Debug\_6.Quadratic_equation.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\6. Quadratic equation\bin\Debug\_6.Quadratic_equation.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\6. Quadratic equation\obj\x86\Debug\_6.Quadratic_equation.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\6. Quadratic equation\obj\x86\Debug\_6.Quadratic_equation.pdb

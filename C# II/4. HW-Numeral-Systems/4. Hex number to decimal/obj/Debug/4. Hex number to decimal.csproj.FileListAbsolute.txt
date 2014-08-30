@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\4. Hex number to decimal\bin\Debug\_4.Hex_number_to_decimal.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\4. Hex number to decimal\bin\Debug\_4.Hex_number_to_decimal.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\4. Hex number to decimal\bin\Debug\_4.Hex_number_to_decimal.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\4. Hex number to decimal\obj\Debug\_4.Hex_number_to_decimal.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\4. Hex number to decimal\obj\Debug\_4.Hex_number_to_decimal.pdb

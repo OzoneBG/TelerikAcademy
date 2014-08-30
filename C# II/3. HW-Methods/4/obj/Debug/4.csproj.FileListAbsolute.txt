@@ -1,0 +1,6 @@
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\bin\Debug\4.exe.config
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\obj\Debug\4.exe
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\obj\Debug\4.pdb
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\bin\Debug\4.exe
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\4\bin\Debug\4.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Compare_Float_Points\obj\x86\Debug\Compare_Float_Points.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Compare_Float_Points\obj\x86\Debug\Compare_Float_Points.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Compare_Float_Points\bin\Debug\Compare_Float_Points.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Compare_Float_Points\bin\Debug\Compare_Float_Points.pdb

@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\bin\Debug\_8.Add_2_positive_ints.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\bin\Debug\_8.Add_2_positive_ints.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\bin\Debug\_8.Add_2_positive_ints.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\obj\Debug\8. Add 2 positive ints.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\obj\Debug\_8.Add_2_positive_ints.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\8. Add 2 positive ints\obj\Debug\_8.Add_2_positive_ints.pdb

@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\bin\Debug\_12.A_Z_alphabet.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\bin\Debug\_12.A_Z_alphabet.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\bin\Debug\_12.A_Z_alphabet.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\obj\Debug\12. A-Z alphabet.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\obj\Debug\_12.A_Z_alphabet.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\12. A-Z alphabet\obj\Debug\_12.A_Z_alphabet.pdb

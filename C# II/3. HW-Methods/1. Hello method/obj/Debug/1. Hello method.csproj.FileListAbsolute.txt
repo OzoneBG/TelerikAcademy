@@ -1,0 +1,6 @@
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\bin\Debug\_1.Hello_method.exe.config
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\bin\Debug\_1.Hello_method.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\bin\Debug\_1.Hello_method.pdb
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\obj\Debug\1. Hello method.csprojResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\obj\Debug\_1.Hello_method.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\1. Hello method\obj\Debug\_1.Hello_method.pdb

@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\6. Quadratic equation\bin\Debug\_6.Quadratic_equation.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\6. Quadratic equation\bin\Debug\_6.Quadratic_equation.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\6. Quadratic equation\obj\x86\Debug\_6.Quadratic_equation.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\6. Quadratic equation\obj\x86\Debug\_6.Quadratic_equation.pdb

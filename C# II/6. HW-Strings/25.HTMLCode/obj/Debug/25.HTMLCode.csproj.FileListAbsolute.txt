@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\bin\Debug\25.HTMLCode.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\bin\Debug\25.HTMLCode.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\bin\Debug\25.HTMLCode.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\obj\Debug\25.HTMLCode.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\obj\Debug\25.HTMLCode.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\25.HTMLCode\obj\Debug\25.HTMLCode.pdb

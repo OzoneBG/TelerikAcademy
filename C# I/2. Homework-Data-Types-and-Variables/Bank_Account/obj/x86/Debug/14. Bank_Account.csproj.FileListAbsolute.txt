@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Bank_Account\bin\Debug\Bank_Account.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Bank_Account\bin\Debug\Bank_Account.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Bank_Account\obj\x86\Debug\14. Bank_Account.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Bank_Account\obj\x86\Debug\Bank_Account.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Bank_Account\obj\x86\Debug\Bank_Account.pdb

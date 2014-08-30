@@ -1,0 +1,10 @@
+D:\c#\DomStrings\06.Maximum20Characters\bin\Debug\06.Maximum20Characters.exe
+D:\c#\DomStrings\06.Maximum20Characters\bin\Debug\06.Maximum20Characters.pdb
+D:\c#\DomStrings\06.Maximum20Characters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\06.Maximum20Characters\obj\x86\Debug\06.Maximum20Characters.exe
+D:\c#\DomStrings\06.Maximum20Characters\obj\x86\Debug\06.Maximum20Characters.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\06.Maximum20Characters\obj\x86\Debug\06.Maximum20Characters.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\06.Maximum20Characters\obj\x86\Debug\06.Maximum20Characters.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\06.Maximum20Characters\bin\Debug\06.Maximum20Characters.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\06.Maximum20Characters\bin\Debug\06.Maximum20Characters.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\06.Maximum20Characters\obj\x86\Debug\06.Maximum20Characters.csprojResolveAssemblyReference.cache

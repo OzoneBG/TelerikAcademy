@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\bin\Debug\_7.Sort_Array.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\bin\Debug\_7.Sort_Array.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\bin\Debug\_7.Sort_Array.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\obj\Debug\7. Selection Sort Array.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\obj\Debug\_7.Sort_Array.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\7. Sort Array\obj\Debug\_7.Sort_Array.pdb

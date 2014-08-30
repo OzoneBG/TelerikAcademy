@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\bin\Debug\_2.Find_sum_in_rect_matrix_NxM.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\bin\Debug\_2.Find_sum_in_rect_matrix_NxM.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\bin\Debug\_2.Find_sum_in_rect_matrix_NxM.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\obj\Debug\2. Find sum in rect matrix NxM.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\obj\Debug\_2.Find_sum_in_rect_matrix_NxM.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\2. Find sum in rect matrix NxM\obj\Debug\_2.Find_sum_in_rect_matrix_NxM.pdb

@@ -1,0 +1,63 @@
+html
+{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:grey;
+}
+
+nav ul
+{
+	text-align:center;
+	list-style-type:none;
+}
+
+nav a
+{
+	color: white;
+	text-decoration:none;
+	font-size:15pt;
+}
+
+nav a:hover
+{
+	background-color: grey;
+	opacity:0.1;
+}
+
+nav a:active
+{
+	text-decoration:underline;
+}
+
+nav a:visited
+{
+	text-decoration:underline;
+}
+
+a
+{
+	text-decoration:none;
+	color:black;
+}
+
+h1
+{
+	color:#FAFAD2;
+}
+
+#header
+{
+	text-align:center;
+	color:#FAFAD2;
+}
+
+#copyright
+{
+	text-align:center;
+}

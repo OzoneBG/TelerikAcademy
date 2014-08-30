@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Web Form</title>
+	</head>
+	<body>
+		<form action="#" method="POST">
+			<table border="1" cellpadding="0" cellspacing="0">
+				<tr>
+					<td class="field">Last Name</td>
+					<td colspan="3"><input type="text" name="lastName" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">First Name</td>
+					<td colspan="3"><input type="text" name="firstName" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">Address</td>
+					<td colspan="3"><textarea name="address"></textarea></td>
+				</tr>
+				<tr>
+					<td class="field">City</td>
+					<td><input type="text" name="city" value="" /></td>
+					<td class="field">State</td>
+					<td><input type="text" name="state" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">Zip/Postal Code</td>
+					<td colspan="3"><input type="text" name="code" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">Country</td>
+					<td colspan="3">
+						<select>
+							<option value="bulgaria">Bulgaria</option>
+							<option value="romania">Romania</option>
+							<option value="serbia">Serbia</option>
+							<option value="greece">Greece</option>
+							<option value="turkey">Turkey</option>
+							<option value="makedonia">Makedonia</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="field">Phone (country code, <br />
+										area code, number)</td>
+					<td colspan="3">(+<input type="text" name="firstNums" value="" /> ) <input type="text" name="middleNums" value="" /> - <input type="text" name="lastNums" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">E-mail</td>
+					<td colspan="3"><input type="text" name="email" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">Birth date</td>
+					<td colspan="3">Month<input type="text" name="month" value="" /> Day<input type="text" name="day" value="" /> Year (4 digit)<input type="text" name="year" value="" /></td>
+				</tr>
+				<tr>
+					<td class="field">Gender</td>
+					<td colspan="3">
+						<select>
+							<option value="male">Male</option>
+							<option value="female">Female</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td class="field">Starting date</td>
+					<td colspan="3"><input type="radio" name="date" value="Spring 2006" />Spring 2006 <input type="radio" name="date" value="Summer 2006" />Summer 2006</td>
+				</tr>
+
+				<tr>
+					<td class="field">Comments/Questions</td>
+					<td colspan="3"><textarea name="comments"></textarea></td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>

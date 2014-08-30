@@ -1,0 +1,9 @@
+D:\c#\DomStrings\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe
+D:\c#\DomStrings\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb
+D:\c#\DomStrings\23.ReplaceIdenticalLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.exe
+D:\c#\DomStrings\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\23.ReplaceIdenticalLetters\obj\x86\Debug\23.ReplaceIdenticalLetters.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\23.ReplaceIdenticalLetters\bin\Debug\23.ReplaceIdenticalLetters.pdb

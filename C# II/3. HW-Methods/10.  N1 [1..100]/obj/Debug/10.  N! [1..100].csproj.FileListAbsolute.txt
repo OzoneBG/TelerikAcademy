@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\bin\Debug\_10.N1__1._._100_.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\bin\Debug\_10.N1__1._._100_.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\bin\Debug\_10.N1__1._._100_.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\obj\Debug\10.  N! [1..100].csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\obj\Debug\_10.N1__1._._100_.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\10.  N1 [1..100]\obj\Debug\_10.N1__1._._100_.pdb

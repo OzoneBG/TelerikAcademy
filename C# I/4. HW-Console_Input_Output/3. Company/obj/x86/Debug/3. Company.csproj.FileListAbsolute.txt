@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\3. Company\bin\Debug\_3.Company.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\3. Company\bin\Debug\_3.Company.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\3. Company\obj\x86\Debug\_3.Company.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\3. Company\obj\x86\Debug\_3.Company.pdb

@@ -1,0 +1,5 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\bin\Debug\Which_float_can_be_assigned.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\bin\Debug\Which_float_can_be_assigned.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\obj\x86\Debug\Which_float_can_be_assigned.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\obj\x86\Debug\Which_float_can_be_assigned.pdb

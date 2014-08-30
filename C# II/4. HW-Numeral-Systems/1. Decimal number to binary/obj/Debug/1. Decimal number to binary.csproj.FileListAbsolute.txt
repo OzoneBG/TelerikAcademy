@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\bin\Debug\_1.Decimal_number_to_binary.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\bin\Debug\_1.Decimal_number_to_binary.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\bin\Debug\_1.Decimal_number_to_binary.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\obj\Debug\1. Decimal number to binary.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\obj\Debug\_1.Decimal_number_to_binary.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\1. Decimal number to binary\obj\Debug\_1.Decimal_number_to_binary.pdb

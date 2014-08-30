@@ -1,0 +1,1 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\8. Find sequence of maximal sum\bin\Debug\_8.Find_sequence_of_maximal_sum.exe.config

@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Can_be_devided_by_7_and_5\bin\Debug\Can_be_devided_by_7_and_5.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Can_be_devided_by_7_and_5\bin\Debug\Can_be_devided_by_7_and_5.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Can_be_devided_by_7_and_5\obj\x86\Debug\Can_be_devided_by_7_and_5.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Can_be_devided_by_7_and_5\obj\x86\Debug\Can_be_devided_by_7_and_5.pdb

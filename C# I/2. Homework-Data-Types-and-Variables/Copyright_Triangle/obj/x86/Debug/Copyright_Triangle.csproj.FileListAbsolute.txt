@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Copyright_Triangle\bin\Debug\Copyright_Triangle.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Copyright_Triangle\bin\Debug\Copyright_Triangle.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Copyright_Triangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Copyright_Triangle\obj\x86\Debug\Copyright_Triangle.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Copyright_Triangle\obj\x86\Debug\Copyright_Triangle.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Check_third_digit\bin\Debug\Check_third_digit.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Check_third_digit\bin\Debug\Check_third_digit.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Check_third_digit\obj\x86\Debug\Check_third_digit.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Check_third_digit\obj\x86\Debug\Check_third_digit.pdb

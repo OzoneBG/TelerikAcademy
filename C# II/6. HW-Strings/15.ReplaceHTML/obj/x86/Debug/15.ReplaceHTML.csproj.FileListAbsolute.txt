@@ -1,0 +1,9 @@
+D:\c#\DomStrings\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.exe
+D:\c#\DomStrings\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.pdb
+D:\c#\DomStrings\15.ReplaceHTML\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\15.ReplaceHTML\obj\x86\Debug\15.ReplaceHTML.exe
+D:\c#\DomStrings\15.ReplaceHTML\obj\x86\Debug\15.ReplaceHTML.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\15.ReplaceHTML\obj\x86\Debug\15.ReplaceHTML.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\15.ReplaceHTML\obj\x86\Debug\15.ReplaceHTML.pdb

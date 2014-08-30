@@ -1,0 +1,7 @@
+c:\users\misho\documents\visual studio 2010\Projects\Fire\Fire\bin\Debug\Fire.exe
+c:\users\misho\documents\visual studio 2010\Projects\Fire\Fire\bin\Debug\Fire.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Fire\Fire\obj\x86\Debug\Fire.exe
+c:\users\misho\documents\visual studio 2010\Projects\Fire\Fire\obj\x86\Debug\Fire.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Fire\Fire\obj\x86\Debug\Fire.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Fire\obj\x86\Debug\Fire.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Fire\obj\x86\Debug\Fire.pdb

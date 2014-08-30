@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\8. Representation of short\bin\Debug\_8.Representation_of_short.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\8. Representation of short\bin\Debug\_8.Representation_of_short.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\8. Representation of short\bin\Debug\_8.Representation_of_short.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\8. Representation of short\obj\Debug\_8.Representation_of_short.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\8. Representation of short\obj\Debug\_8.Representation_of_short.pdb

@@ -1,0 +1,36 @@
+body
+{
+	background-color:#C2E0FF;
+	font-family: Arial;
+	font-size:10pt;
+}
+#navigation 
+{
+	list-style-type:none;
+	margin-left: -100px;
+}
+h2
+{
+	font-style:italic;
+}
+#info
+{
+	list-style-type:none;
+}
+.occupation
+{
+	list-style-type:none;
+}
+.nav
+{
+	display:inline;
+	margin-left: 60px;
+}
+a:link, a:visited
+{
+	color:grey;
+}
+a:active, a:hover
+{
+	color:black;
+}

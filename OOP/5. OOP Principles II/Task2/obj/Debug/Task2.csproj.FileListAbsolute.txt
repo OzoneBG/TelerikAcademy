@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\Task2\bin\Debug\Task2.exe
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\Task2\bin\Debug\Task2.pdb
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\Task2\obj\Debug\Task2.exe
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\Task2\obj\Debug\Task2.pdb

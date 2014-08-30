@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\6. Is_within_a_circle\bin\Debug\_6.Is_within_a_circle.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\6. Is_within_a_circle\bin\Debug\_6.Is_within_a_circle.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\6. Is_within_a_circle\obj\x86\Debug\_6.Is_within_a_circle.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\6. Is_within_a_circle\obj\x86\Debug\_6.Is_within_a_circle.pdb

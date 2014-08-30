@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Defining Classes II\GenericMatrix\bin\Debug\GenericMatrix.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Defining Classes II\GenericMatrix\bin\Debug\GenericMatrix.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Defining Classes II\GenericMatrix\bin\Debug\GenericMatrix.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Defining Classes II\GenericMatrix\obj\Debug\GenericMatrix.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Defining Classes II\GenericMatrix\obj\Debug\GenericMatrix.pdb

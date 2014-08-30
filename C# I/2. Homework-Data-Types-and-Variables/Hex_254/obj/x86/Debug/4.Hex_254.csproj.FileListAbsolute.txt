@@ -1,0 +1,2 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Hex_254\obj\x86\Debug\Hex_254.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Hex_254\obj\x86\Debug\Hex_254.pdb

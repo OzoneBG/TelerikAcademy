@@ -1,0 +1,12 @@
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.exe.config
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.exe
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.pdb
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\obj\Debug\_03.PrintsMinimalandMaximal.exe
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\obj\Debug\_03.PrintsMinimalandMaximal.pdb
+D:\U4ilishte\Telerik\C# Programs\DOMASHNO\Loops_Home_Work\03. PrintsMinimalandMaximal\obj\Debug\03. PrintsMinimalandMaximal.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\obj\Debug\_03.PrintsMinimalandMaximal.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\obj\Debug\_03.PrintsMinimalandMaximal.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\bin\Debug\_03.PrintsMinimalandMaximal.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Loops\03. PrintsMinimalandMaximal\obj\Debug\03. PrintsMinimalandMaximal.csprojResolveAssemblyReference.cache

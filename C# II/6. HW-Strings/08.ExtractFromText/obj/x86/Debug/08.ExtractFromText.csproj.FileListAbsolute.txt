@@ -1,0 +1,9 @@
+D:\c#\DomStrings\08.ExtractFromText\bin\Debug\08.ExtractFromText.exe
+D:\c#\DomStrings\08.ExtractFromText\bin\Debug\08.ExtractFromText.pdb
+D:\c#\DomStrings\08.ExtractFromText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\08.ExtractFromText\obj\x86\Debug\08.ExtractFromText.exe
+D:\c#\DomStrings\08.ExtractFromText\obj\x86\Debug\08.ExtractFromText.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\08.ExtractFromText\bin\Debug\08.ExtractFromText.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\08.ExtractFromText\bin\Debug\08.ExtractFromText.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\08.ExtractFromText\obj\x86\Debug\08.ExtractFromText.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\08.ExtractFromText\obj\x86\Debug\08.ExtractFromText.pdb

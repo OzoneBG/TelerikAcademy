@@ -1,0 +1,5 @@
+D:\U4ilishte\Telerik\CSS\HW\LESS_HW\LESS_HomeWork\01. SimpleSite\bin\_01.SimpleSite.dll
+D:\U4ilishte\Telerik\CSS\HW\LESS_HW\LESS_HomeWork\01. SimpleSite\bin\_01.SimpleSite.pdb
+D:\U4ilishte\Telerik\CSS\HW\LESS_HW\LESS_HomeWork\01. SimpleSite\obj\Debug\01. SimpleSite.csprojResolveAssemblyReference.cache
+D:\U4ilishte\Telerik\CSS\HW\LESS_HW\LESS_HomeWork\01. SimpleSite\obj\Debug\_01.SimpleSite.dll
+D:\U4ilishte\Telerik\CSS\HW\LESS_HW\LESS_HomeWork\01. SimpleSite\obj\Debug\_01.SimpleSite.pdb

@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\14. Quick Sort Algorithm\bin\Debug\_14.Quick_Sort_Algorithm.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\14. Quick Sort Algorithm\bin\Debug\_14.Quick_Sort_Algorithm.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\14. Quick Sort Algorithm\bin\Debug\_14.Quick_Sort_Algorithm.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\14. Quick Sort Algorithm\obj\Debug\_14.Quick_Sort_Algorithm.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\14. Quick Sort Algorithm\obj\Debug\_14.Quick_Sort_Algorithm.pdb

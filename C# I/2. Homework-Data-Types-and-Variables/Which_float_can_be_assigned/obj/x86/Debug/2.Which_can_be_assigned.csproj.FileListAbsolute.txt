@@ -1,0 +1,2 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\obj\x86\Debug\Which_float_can_be_assigned.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Which_float_can_be_assigned\obj\x86\Debug\Which_float_can_be_assigned.pdb

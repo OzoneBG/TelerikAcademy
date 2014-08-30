@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\OOP Principles\Task1\bin\Debug\Task1.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\OOP Principles\Task1\bin\Debug\Task1.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\OOP Principles\Task1\obj\x86\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\OOP Principles\Task1\obj\x86\Debug\Task1.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\OOP Principles\Task1\obj\x86\Debug\Task1.pdb

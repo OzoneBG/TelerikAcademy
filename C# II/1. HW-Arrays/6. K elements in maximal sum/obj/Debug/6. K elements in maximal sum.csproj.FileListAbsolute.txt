@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\bin\Debug\_6.K_elements_in_maximal_sum.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\bin\Debug\_6.K_elements_in_maximal_sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\bin\Debug\_6.K_elements_in_maximal_sum.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\obj\Debug\6. K elements in maximal sum.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\obj\Debug\_6.K_elements_in_maximal_sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\6. K elements in maximal sum\obj\Debug\_6.K_elements_in_maximal_sum.pdb

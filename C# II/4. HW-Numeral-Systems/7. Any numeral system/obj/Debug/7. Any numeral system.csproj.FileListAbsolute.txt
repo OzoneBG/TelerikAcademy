@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\7. Any numeral system\bin\Debug\_7.Any_numeral_system.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\7. Any numeral system\bin\Debug\_7.Any_numeral_system.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\7. Any numeral system\bin\Debug\_7.Any_numeral_system.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\7. Any numeral system\obj\Debug\_7.Any_numeral_system.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\7. Any numeral system\obj\Debug\_7.Any_numeral_system.pdb

@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\2. Find Sign\bin\Debug\_2.Find_Sign.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\2. Find Sign\bin\Debug\_2.Find_Sign.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\2. Find Sign\obj\x86\Debug\_2.Find_Sign.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\2. Find Sign\obj\x86\Debug\_2.Find_Sign.pdb

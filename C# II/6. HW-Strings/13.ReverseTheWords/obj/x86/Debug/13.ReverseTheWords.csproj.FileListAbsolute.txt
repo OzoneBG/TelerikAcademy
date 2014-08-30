@@ -1,0 +1,9 @@
+D:\c#\DomStrings\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.exe
+D:\c#\DomStrings\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.pdb
+D:\c#\DomStrings\13.ReverseTheWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\13.ReverseTheWords\obj\x86\Debug\13.ReverseTheWords.exe
+D:\c#\DomStrings\13.ReverseTheWords\obj\x86\Debug\13.ReverseTheWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\13.ReverseTheWords\bin\Debug\13.ReverseTheWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\13.ReverseTheWords\obj\x86\Debug\13.ReverseTheWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\13.ReverseTheWords\obj\x86\Debug\13.ReverseTheWords.pdb

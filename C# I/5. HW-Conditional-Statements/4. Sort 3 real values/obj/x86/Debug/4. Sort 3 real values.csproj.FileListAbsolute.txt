@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\4. Sort 3 real values\bin\Debug\_4.Sort_3_real_values.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\4. Sort 3 real values\bin\Debug\_4.Sort_3_real_values.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\4. Sort 3 real values\obj\x86\Debug\_4.Sort_3_real_values.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\4. Sort 3 real values\obj\x86\Debug\_4.Sort_3_real_values.pdb

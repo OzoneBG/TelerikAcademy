@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_First_Last_Name\bin\Debug\Print_First_Last_Name.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_First_Last_Name\bin\Debug\Print_First_Last_Name.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_First_Last_Name\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_First_Last_Name\obj\x86\Debug\Print_First_Last_Name.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_First_Last_Name\obj\x86\Debug\Print_First_Last_Name.pdb

@@ -1,0 +1,9 @@
+D:\c#\DomStrings\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+D:\c#\DomStrings\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+D:\c#\DomStrings\19.ExtractDates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.exe
+D:\c#\DomStrings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\19.ExtractDates\obj\x86\Debug\19.ExtractDates.pdb

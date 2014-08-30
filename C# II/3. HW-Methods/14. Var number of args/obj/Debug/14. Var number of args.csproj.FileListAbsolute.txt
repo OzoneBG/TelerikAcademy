@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\14. Var number of args\bin\Debug\_14.Var_number_of_args.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\14. Var number of args\bin\Debug\_14.Var_number_of_args.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\14. Var number of args\bin\Debug\_14.Var_number_of_args.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\14. Var number of args\obj\Debug\_14.Var_number_of_args.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\14. Var number of args\obj\Debug\_14.Var_number_of_args.pdb

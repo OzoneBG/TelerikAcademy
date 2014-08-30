@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\5. Hex number to binary directly\bin\Debug\_5.Hex_number_to_binary_directly.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\5. Hex number to binary directly\bin\Debug\_5.Hex_number_to_binary_directly.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\5. Hex number to binary directly\bin\Debug\_5.Hex_number_to_binary_directly.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\5. Hex number to binary directly\obj\Debug\_5.Hex_number_to_binary_directly.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Numeral-Systems\5. Hex number to binary directly\obj\Debug\_5.Hex_number_to_binary_directly.pdb

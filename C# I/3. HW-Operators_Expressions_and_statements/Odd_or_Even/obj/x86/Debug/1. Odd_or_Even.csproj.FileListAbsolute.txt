@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\obj\x86\Debug\Odd_or_Even.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\obj\x86\Debug\Odd_or_Even.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\bin\Debug\Odd_or_Even.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Odd_or_Even\bin\Debug\Odd_or_Even.pdb

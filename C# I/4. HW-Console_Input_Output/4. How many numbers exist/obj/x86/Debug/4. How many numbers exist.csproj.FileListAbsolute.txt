@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\4. How many numbers exist\bin\Debug\_4.How_many_numbers_exist.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\4. How many numbers exist\bin\Debug\_4.How_many_numbers_exist.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\4. How many numbers exist\obj\x86\Debug\_4.How_many_numbers_exist.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\4. How many numbers exist\obj\x86\Debug\_4.How_many_numbers_exist.pdb

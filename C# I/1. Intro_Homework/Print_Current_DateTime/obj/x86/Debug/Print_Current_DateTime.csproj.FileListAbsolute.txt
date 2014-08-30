@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Current_DateTime\bin\Debug\Print_Current_DateTime.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Current_DateTime\bin\Debug\Print_Current_DateTime.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Current_DateTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Current_DateTime\obj\x86\Debug\Print_Current_DateTime.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Current_DateTime\obj\x86\Debug\Print_Current_DateTime.pdb

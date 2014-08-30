@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\Version\bin\Debug\Version.exe.config
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\Version\bin\Debug\Version.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\Version\bin\Debug\Version.pdb
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\Version\obj\Debug\Version.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\Version\obj\Debug\Version.pdb

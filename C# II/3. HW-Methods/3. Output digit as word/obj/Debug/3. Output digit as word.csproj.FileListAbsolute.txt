@@ -1,0 +1,6 @@
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\bin\Debug\_3.Output_digit_as_word.exe.config
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\bin\Debug\_3.Output_digit_as_word.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\bin\Debug\_3.Output_digit_as_word.pdb
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\obj\Debug\_3.Output_digit_as_word.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\obj\Debug\_3.Output_digit_as_word.pdb
+C:\Users\MISHO\documents\visual studio 2012\Projects\HW-Methods\3. Output digit as word\obj\Debug\3. Output digit as word.csprojResolveAssemblyReference.cache

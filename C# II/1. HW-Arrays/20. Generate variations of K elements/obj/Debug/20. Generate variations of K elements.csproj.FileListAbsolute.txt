@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\20. Generate variations of K elements\bin\Debug\_20.Generate_variations_of_K_elements.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\20. Generate variations of K elements\bin\Debug\_20.Generate_variations_of_K_elements.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\20. Generate variations of K elements\bin\Debug\_20.Generate_variations_of_K_elements.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\20. Generate variations of K elements\obj\Debug\_20.Generate_variations_of_K_elements.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\20. Generate variations of K elements\obj\Debug\_20.Generate_variations_of_K_elements.pdb

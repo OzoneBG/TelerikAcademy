@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\6. Adding string numbers\bin\Debug\_6.Adding_string_numbers.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\6. Adding string numbers\bin\Debug\_6.Adding_string_numbers.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\6. Adding string numbers\bin\Debug\_6.Adding_string_numbers.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\6. Adding string numbers\obj\Debug\_6.Adding_string_numbers.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\6. Adding string numbers\obj\Debug\_6.Adding_string_numbers.pdb

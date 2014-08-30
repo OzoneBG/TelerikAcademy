@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\10. Calculate Sum\bin\Debug\_10.Calculate_Sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\10. Calculate Sum\bin\Debug\_10.Calculate_Sum.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\10. Calculate Sum\obj\x86\Debug\_10.Calculate_Sum.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\10. Calculate Sum\obj\x86\Debug\_10.Calculate_Sum.pdb

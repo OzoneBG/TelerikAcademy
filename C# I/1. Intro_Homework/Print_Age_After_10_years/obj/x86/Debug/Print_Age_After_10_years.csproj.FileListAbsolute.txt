@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Age_After_10_years\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Age_After_10_years\bin\Debug\Print_Age_After_10_years.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Age_After_10_years\bin\Debug\Print_Age_After_10_years.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Age_After_10_years\obj\x86\Debug\Print_Age_After_10_years.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Age_After_10_years\obj\x86\Debug\Print_Age_After_10_years.pdb

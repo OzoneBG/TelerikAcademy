@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Numbers_of_Sequence\bin\Debug\Print_Numbers_of_Sequence.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Numbers_of_Sequence\bin\Debug\Print_Numbers_of_Sequence.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Numbers_of_Sequence\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Numbers_of_Sequence\obj\x86\Debug\Print_Numbers_of_Sequence.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_Numbers_of_Sequence\obj\x86\Debug\Print_Numbers_of_Sequence.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\13.  3 bits exchange\bin\Debug\_13._3_bits_exchange.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\13.  3 bits exchange\bin\Debug\_13._3_bits_exchange.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\13.  3 bits exchange\obj\x86\Debug\_13._3_bits_exchange.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\13.  3 bits exchange\obj\x86\Debug\_13._3_bits_exchange.pdb

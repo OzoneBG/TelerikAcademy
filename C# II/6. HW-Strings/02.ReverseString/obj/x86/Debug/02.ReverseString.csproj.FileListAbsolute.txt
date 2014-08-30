@@ -1,0 +1,10 @@
+D:\c#\DomStrings\02.ReverseString\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\02.ReverseString\bin\Debug\02.ReverseString.exe
+D:\c#\DomStrings\02.ReverseString\bin\Debug\02.ReverseString.pdb
+D:\c#\DomStrings\02.ReverseString\obj\x86\Debug\02.ReverseString.exe
+D:\c#\DomStrings\02.ReverseString\obj\x86\Debug\02.ReverseString.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\02.ReverseString\obj\x86\Debug\02.ReverseString.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\02.ReverseString\obj\x86\Debug\02.ReverseString.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\02.ReverseString\bin\Debug\02.ReverseString.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\02.ReverseString\bin\Debug\02.ReverseString.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\02.ReverseString\obj\x86\Debug\02.ReverseString.csprojResolveAssemblyReference.cache

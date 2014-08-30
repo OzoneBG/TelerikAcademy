@@ -1,0 +1,10 @@
+D:\c#\DomStrings\05.TextSurroundedByTags\bin\Debug\05.TextSurroundedByTags.exe
+D:\c#\DomStrings\05.TextSurroundedByTags\bin\Debug\05.TextSurroundedByTags.pdb
+D:\c#\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\05.TextSurroundedByTags.exe
+D:\c#\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\05.TextSurroundedByTags.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\05.TextSurroundedByTags\bin\Debug\05.TextSurroundedByTags.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\05.TextSurroundedByTags\bin\Debug\05.TextSurroundedByTags.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\05.TextSurroundedByTags.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\05.TextSurroundedByTags.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\05.TextSurroundedByTags\obj\x86\Debug\05.TextSurroundedByTags.pdb

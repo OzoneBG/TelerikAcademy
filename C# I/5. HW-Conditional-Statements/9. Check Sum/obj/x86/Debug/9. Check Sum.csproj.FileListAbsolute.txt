@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\9. Check Sum\bin\Debug\_9.Check_Sum.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\9. Check Sum\bin\Debug\_9.Check_Sum.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\9. Check Sum\obj\x86\Debug\_9.Check_Sum.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\9. Check Sum\obj\x86\Debug\_9.Check_Sum.pdb

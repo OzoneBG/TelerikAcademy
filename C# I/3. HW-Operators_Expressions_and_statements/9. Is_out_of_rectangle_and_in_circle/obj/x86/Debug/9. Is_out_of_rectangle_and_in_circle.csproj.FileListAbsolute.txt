@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\9. Is_out_of_rectangle_and_in_circle\bin\Debug\_9.Is_out_of_rectangle_and_in_circle.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\9. Is_out_of_rectangle_and_in_circle\bin\Debug\_9.Is_out_of_rectangle_and_in_circle.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\9. Is_out_of_rectangle_and_in_circle\obj\x86\Debug\_9.Is_out_of_rectangle_and_in_circle.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\9. Is_out_of_rectangle_and_in_circle\obj\x86\Debug\_9.Is_out_of_rectangle_and_in_circle.pdb

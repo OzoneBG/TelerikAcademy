@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\ASCII_Table\bin\Debug\ASCII_Table.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\ASCII_Table\bin\Debug\ASCII_Table.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\ASCII_Table\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\ASCII_Table\obj\x86\Debug\ASCII_Table.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\ASCII_Table\obj\x86\Debug\ASCII_Table.pdb

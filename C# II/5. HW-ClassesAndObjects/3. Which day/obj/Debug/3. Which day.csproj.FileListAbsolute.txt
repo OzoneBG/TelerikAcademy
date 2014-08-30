@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\bin\Debug\_3.Which_day.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\bin\Debug\_3.Which_day.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\bin\Debug\_3.Which_day.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\obj\Debug\3. Which day.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\obj\Debug\_3.Which_day.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\3. Which day\obj\Debug\_3.Which_day.pdb

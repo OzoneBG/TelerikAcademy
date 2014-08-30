@@ -1,0 +1,1 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find equal strings in matrix\bin\Debug\_3.Find_equal_strings_in_matrix.exe.config

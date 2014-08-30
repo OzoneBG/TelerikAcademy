@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Hello CSharp\bin\Debug\Hello CSharp.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Hello CSharp\bin\Debug\Hello CSharp.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Hello CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Hello CSharp\obj\x86\Debug\Hello CSharp.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Hello CSharp\obj\x86\Debug\Hello CSharp.pdb

@@ -1,0 +1,1 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ExtensionMethodsDelegatesLambdaLINQ\7.Timer\bin\Debug\7.Timer.exe.config

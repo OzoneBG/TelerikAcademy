@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_my_Name\bin\Debug\Print_my_Name.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_my_Name\bin\Debug\Print_my_Name.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_my_Name\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_my_Name\obj\x86\Debug\Print_my_Name.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Print_my_Name\obj\x86\Debug\Print_my_Name.pdb

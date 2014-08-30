@@ -1,0 +1,6 @@
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\bin\Debug\Person.exe.config
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\bin\Debug\Person.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\bin\Debug\Person.pdb
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\obj\Debug\Person.exe
+c:\users\misho\documents\visual studio 2012\Projects\HW-CommonTypeSystem\Person\obj\Debug\Person.pdb

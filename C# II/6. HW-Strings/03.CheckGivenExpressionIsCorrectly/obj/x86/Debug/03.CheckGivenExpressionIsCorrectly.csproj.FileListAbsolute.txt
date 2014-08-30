@@ -1,0 +1,10 @@
+D:\c#\DomStrings\03.CheckGivenExpressionIsCorrectly\bin\Debug\03.CheckGivenExpressionIsCorrectly.exe
+D:\c#\DomStrings\03.CheckGivenExpressionIsCorrectly\bin\Debug\03.CheckGivenExpressionIsCorrectly.pdb
+D:\c#\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\03.CheckGivenExpressionIsCorrectly.exe
+D:\c#\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\03.CheckGivenExpressionIsCorrectly.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\03.CheckGivenExpressionIsCorrectly\bin\Debug\03.CheckGivenExpressionIsCorrectly.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\03.CheckGivenExpressionIsCorrectly\bin\Debug\03.CheckGivenExpressionIsCorrectly.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\03.CheckGivenExpressionIsCorrectly.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\03.CheckGivenExpressionIsCorrectly.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\03.CheckGivenExpressionIsCorrectly\obj\x86\Debug\03.CheckGivenExpressionIsCorrectly.pdb

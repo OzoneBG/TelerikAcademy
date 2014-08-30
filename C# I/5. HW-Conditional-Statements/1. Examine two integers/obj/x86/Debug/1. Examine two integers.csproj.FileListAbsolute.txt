@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\1. Examine two integers\bin\Debug\_1.Examine_two_integers.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\1. Examine two integers\bin\Debug\_1.Examine_two_integers.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\1. Examine two integers\obj\x86\Debug\_1.Examine_two_integers.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\1. Examine two integers\obj\x86\Debug\_1.Examine_two_integers.pdb

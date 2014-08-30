@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Use_of_quotations\bin\Debug\Use_of_quotations.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Use_of_quotations\bin\Debug\Use_of_quotations.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Use_of_quotations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Use_of_quotations\obj\x86\Debug\Use_of_quotations.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Use_of_quotations\obj\x86\Debug\Use_of_quotations.pdb

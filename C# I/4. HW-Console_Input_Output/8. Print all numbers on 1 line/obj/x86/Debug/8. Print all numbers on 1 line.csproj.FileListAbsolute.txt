@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\8. Print all numbers on 1 line\bin\Debug\_8.Print_all_numbers_on_1_line.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\8. Print all numbers on 1 line\bin\Debug\_8.Print_all_numbers_on_1_line.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\8. Print all numbers on 1 line\obj\x86\Debug\_8.Print_all_numbers_on_1_line.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\8. Print all numbers on 1 line\obj\x86\Debug\_8.Print_all_numbers_on_1_line.pdb

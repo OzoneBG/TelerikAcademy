@@ -1,0 +1,9 @@
+D:\c#\DomStrings\12.UrlAdress\bin\Debug\12.UrlAdress.exe
+D:\c#\DomStrings\12.UrlAdress\bin\Debug\12.UrlAdress.pdb
+D:\c#\DomStrings\12.UrlAdress\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\12.UrlAdress\obj\x86\Debug\12.UrlAdress.exe
+D:\c#\DomStrings\12.UrlAdress\obj\x86\Debug\12.UrlAdress.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\12.UrlAdress\bin\Debug\12.UrlAdress.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\12.UrlAdress\bin\Debug\12.UrlAdress.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\12.UrlAdress\obj\x86\Debug\12.UrlAdress.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\12.UrlAdress\obj\x86\Debug\12.UrlAdress.pdb

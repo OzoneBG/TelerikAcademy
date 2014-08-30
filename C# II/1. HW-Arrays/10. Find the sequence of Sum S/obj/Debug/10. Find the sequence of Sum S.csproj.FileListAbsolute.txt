@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\10. Find the sequence of Sum S\bin\Debug\_10.Find_the_sequence_of_Sum_S.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\10. Find the sequence of Sum S\bin\Debug\_10.Find_the_sequence_of_Sum_S.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\10. Find the sequence of Sum S\bin\Debug\_10.Find_the_sequence_of_Sum_S.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\10. Find the sequence of Sum S\obj\Debug\_10.Find_the_sequence_of_Sum_S.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\10. Find the sequence of Sum S\obj\Debug\_10.Find_the_sequence_of_Sum_S.pdb

@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\3. The biggest of 3 ints\bin\Debug\_3.The_biggest_of_3_ints.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\3. The biggest of 3 ints\bin\Debug\_3.The_biggest_of_3_ints.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\3. The biggest of 3 ints\obj\x86\Debug\_3.The_biggest_of_3_ints.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\3. The biggest of 3 ints\obj\x86\Debug\_3.The_biggest_of_3_ints.pdb

@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\Chars\bin\Debug\Chars.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\Chars\bin\Debug\Chars.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\Chars\bin\Debug\Chars.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\Chars\obj\Debug\Chars.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\Chars\obj\Debug\Chars.pdb

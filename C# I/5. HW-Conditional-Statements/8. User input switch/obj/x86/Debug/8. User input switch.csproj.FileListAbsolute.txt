@@ -1,0 +1,4 @@
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\8. User input switch\bin\Debug\_8.User_input_switch.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\8. User input switch\bin\Debug\_8.User_input_switch.pdb
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\8. User input switch\obj\x86\Debug\_8.User_input_switch.exe
+c:\users\misho\documents\visual studio 2010\Projects\HW-Conditional-Statements\8. User input switch\obj\x86\Debug\_8.User_input_switch.pdb

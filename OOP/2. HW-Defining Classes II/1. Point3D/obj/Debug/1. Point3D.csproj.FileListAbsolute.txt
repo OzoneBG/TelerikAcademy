@@ -1,0 +1,2 @@
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\1. Point3D\bin\Debug\_1.Point3D.exe.config
+c:\users\misho\documents\visual studio 2012\Projects\HW-Defining Classes II\1. Point3D\obj\Debug\1. Point3D.csprojResolveAssemblyReference.cache

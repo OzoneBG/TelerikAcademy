@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find the longest equal strings in matrix\bin\Debug\_3.Find_the_longest_equal_strings_in_matrix.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find the longest equal strings in matrix\bin\Debug\_3.Find_the_longest_equal_strings_in_matrix.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find the longest equal strings in matrix\bin\Debug\_3.Find_the_longest_equal_strings_in_matrix.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find the longest equal strings in matrix\obj\Debug\_3.Find_the_longest_equal_strings_in_matrix.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\3. Find the longest equal strings in matrix\obj\Debug\_3.Find_the_longest_equal_strings_in_matrix.pdb

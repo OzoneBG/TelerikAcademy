@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\2. Random number\bin\Debug\_2.Random_number.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\2. Random number\bin\Debug\_2.Random_number.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\2. Random number\bin\Debug\_2.Random_number.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\2. Random number\obj\Debug\_2.Random_number.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\2. Random number\obj\Debug\_2.Random_number.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\2. Print_Circle_area_and_perimeter\bin\Debug\_2.Print_Circle_area_and_perimeter.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\2. Print_Circle_area_and_perimeter\bin\Debug\_2.Print_Circle_area_and_perimeter.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\2. Print_Circle_area_and_perimeter\obj\x86\Debug\_2.Print_Circle_area_and_perimeter.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\HW-Console_Input_Output\2. Print_Circle_area_and_perimeter\obj\x86\Debug\_2.Print_Circle_area_and_perimeter.pdb

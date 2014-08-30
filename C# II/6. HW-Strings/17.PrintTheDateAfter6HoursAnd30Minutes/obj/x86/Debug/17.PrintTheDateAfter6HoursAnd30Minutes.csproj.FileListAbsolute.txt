@@ -1,0 +1,9 @@
+D:\c#\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\bin\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.exe
+D:\c#\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\bin\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.pdb
+D:\c#\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\obj\x86\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.exe
+D:\c#\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\obj\x86\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\bin\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\bin\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\obj\x86\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\17.PrintTheDateAfter6HoursAnd30Minutes\obj\x86\Debug\17.PrintTheDateAfter6HoursAnd30Minutes.pdb

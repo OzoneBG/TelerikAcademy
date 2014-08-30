@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Calculate_Rectangle_Area\bin\Debug\Calculate_Rectangle_Area.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Calculate_Rectangle_Area\bin\Debug\Calculate_Rectangle_Area.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Calculate_Rectangle_Area\obj\x86\Debug\Calculate_Rectangle_Area.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\Calculate_Rectangle_Area\obj\x86\Debug\Calculate_Rectangle_Area.pdb

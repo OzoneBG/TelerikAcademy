@@ -1,0 +1,6 @@
+c:\users\misho\documents\visual studio 2010\Projects\Miss Cat\Miss Cat\bin\Debug\Miss Cat.exe
+c:\users\misho\documents\visual studio 2010\Projects\Miss Cat\Miss Cat\bin\Debug\Miss Cat.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Miss Cat\Miss Cat\obj\x86\Debug\Miss Cat.exe
+c:\users\misho\documents\visual studio 2010\Projects\Miss Cat\Miss Cat\obj\x86\Debug\Miss Cat.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Miss Cat\obj\x86\Debug\Miss Cat.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Miss Cat\obj\x86\Debug\Miss Cat.pdb

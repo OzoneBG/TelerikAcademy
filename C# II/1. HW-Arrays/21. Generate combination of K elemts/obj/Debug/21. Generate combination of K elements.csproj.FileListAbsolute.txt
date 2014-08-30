@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\bin\Debug\_21.Generate_combination_of_K_elemts.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\bin\Debug\_21.Generate_combination_of_K_elemts.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\bin\Debug\_21.Generate_combination_of_K_elemts.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\obj\Debug\21. Generate combination of K elements.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\obj\Debug\_21.Generate_combination_of_K_elemts.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\21. Generate combination of K elemts\obj\Debug\_21.Generate_combination_of_K_elemts.pdb

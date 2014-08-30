@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\bin\Debug\_13.Multitask_program.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\obj\Debug\13. Multitask program.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\bin\Debug\_13.Multitask_program.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\bin\Debug\_13.Multitask_program.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\obj\Debug\_13.Multitask_program.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Methods\13. Multitask program\obj\Debug\_13.Multitask_program.pdb

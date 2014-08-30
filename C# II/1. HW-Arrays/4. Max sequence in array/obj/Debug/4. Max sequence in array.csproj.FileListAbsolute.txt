@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\bin\Debug\_4.Max_sequence_in_array.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\bin\Debug\_4.Max_sequence_in_array.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\bin\Debug\_4.Max_sequence_in_array.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\obj\Debug\_4.Max_sequence_in_array.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\obj\Debug\_4.Max_sequence_in_array.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\4. Max sequence in array\obj\Debug\4. Max sequence in array.csprojResolveAssemblyReference.cache

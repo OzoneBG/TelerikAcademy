@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\OOP Principles II\bin\Debug\OOP Principles II.exe
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\OOP Principles II\bin\Debug\OOP Principles II.pdb
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\OOP Principles II\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\OOP Principles II\obj\Debug\OOP Principles II.exe
+c:\users\misho\documents\visual studio 2012\Projects\OOP Principles II\OOP Principles II\obj\Debug\OOP Principles II.pdb

@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\bin\Debug\_1.Allocate_20_ints.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\obj\Debug\1. Allocate 20 ints.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\bin\Debug\_1.Allocate_20_ints.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\bin\Debug\_1.Allocate_20_ints.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\obj\Debug\_1.Allocate_20_ints.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Arrays\1. Allocate 20 ints\obj\Debug\_1.Allocate_20_ints.pdb

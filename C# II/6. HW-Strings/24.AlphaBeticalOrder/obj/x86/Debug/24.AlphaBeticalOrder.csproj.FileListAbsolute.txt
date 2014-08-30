@@ -1,0 +1,4 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\24.AlphaBeticalOrder\bin\Debug\24.AlphaBeticalOrder.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\24.AlphaBeticalOrder\bin\Debug\24.AlphaBeticalOrder.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\24.AlphaBeticalOrder\obj\x86\Debug\24.AlphaBeticalOrder.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\24.AlphaBeticalOrder\obj\x86\Debug\24.AlphaBeticalOrder.pdb

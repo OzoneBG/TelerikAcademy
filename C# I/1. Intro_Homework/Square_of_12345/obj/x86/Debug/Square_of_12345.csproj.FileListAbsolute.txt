@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Square_of_12345\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Square_of_12345\bin\Debug\Square_of_12345.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Square_of_12345\bin\Debug\Square_of_12345.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Square_of_12345\obj\x86\Debug\Square_of_12345.exe
+c:\users\misho\documents\visual studio 2010\Projects\Intro_Homework\Square_of_12345\obj\x86\Debug\Square_of_12345.pdb

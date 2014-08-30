@@ -1,0 +1,9 @@
+D:\c#\DomStrings\09.ForbiddenWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+D:\c#\DomStrings\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+D:\c#\DomStrings\09.ForbiddenWords\obj\x86\Debug\09.ForbiddenWords.exe
+D:\c#\DomStrings\09.ForbiddenWords\obj\x86\Debug\09.ForbiddenWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\09.ForbiddenWords\obj\x86\Debug\09.ForbiddenWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\09.ForbiddenWords\obj\x86\Debug\09.ForbiddenWords.pdb

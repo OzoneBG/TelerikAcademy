@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\11. Find in a given value given bit number\bin\Debug\_11.Find_in_a_given_value_given_bit_number.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\11. Find in a given value given bit number\bin\Debug\_11.Find_in_a_given_value_given_bit_number.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\11. Find in a given value given bit number\obj\x86\Debug\_11.Find_in_a_given_value_given_bit_number.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\11. Find in a given value given bit number\obj\x86\Debug\_11.Find_in_a_given_value_given_bit_number.pdb

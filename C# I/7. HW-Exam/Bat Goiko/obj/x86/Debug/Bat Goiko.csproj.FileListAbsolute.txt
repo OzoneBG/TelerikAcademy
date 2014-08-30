@@ -1,0 +1,7 @@
+c:\users\misho\documents\visual studio 2010\Projects\Bat Goiko\Bat Goiko\bin\Debug\Bat Goiko.exe
+c:\users\misho\documents\visual studio 2010\Projects\Bat Goiko\Bat Goiko\bin\Debug\Bat Goiko.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Bat Goiko\Bat Goiko\obj\x86\Debug\Bat Goiko.exe
+c:\users\misho\documents\visual studio 2010\Projects\Bat Goiko\Bat Goiko\obj\x86\Debug\Bat Goiko.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\Bat Goiko\Bat Goiko\obj\x86\Debug\Bat Goiko.csprojResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Bat Goiko\obj\x86\Debug\Bat Goiko.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\Bat Goiko\obj\x86\Debug\Bat Goiko.pdb

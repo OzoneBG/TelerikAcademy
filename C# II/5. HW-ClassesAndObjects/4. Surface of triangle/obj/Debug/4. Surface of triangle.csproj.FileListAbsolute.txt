@@ -1,0 +1,6 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\bin\Debug\_4.Surface_of_triangle.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\bin\Debug\_4.Surface_of_triangle.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\bin\Debug\_4.Surface_of_triangle.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\obj\Debug\_4.Surface_of_triangle.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\obj\Debug\_4.Surface_of_triangle.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-ClassesAndObjects\4. Surface of triangle\obj\Debug\4. Surface of triangle.csprojResolveAssemblyReference.cache

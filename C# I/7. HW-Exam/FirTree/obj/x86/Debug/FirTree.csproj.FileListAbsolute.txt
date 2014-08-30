@@ -1,0 +1,8 @@
+c:\users\misho\documents\visual studio 2010\Projects\FirTree\FirTree\bin\Debug\FirTree.exe
+c:\users\misho\documents\visual studio 2010\Projects\FirTree\FirTree\bin\Debug\FirTree.pdb
+c:\users\misho\documents\visual studio 2010\Projects\FirTree\FirTree\obj\x86\Debug\FirTree.exe
+c:\users\misho\documents\visual studio 2010\Projects\FirTree\FirTree\obj\x86\Debug\FirTree.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\FirTree\obj\x86\Debug\FirTree.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\FirTree\obj\x86\Debug\FirTree.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\FirTree\bin\Debug\FirTree.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW\FirTree\bin\Debug\FirTree.pdb

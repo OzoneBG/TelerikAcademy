@@ -1,0 +1,9 @@
+D:\c#\DomStrings\22.DifferentWords\bin\Debug\22.DifferentWords.exe
+D:\c#\DomStrings\22.DifferentWords\bin\Debug\22.DifferentWords.pdb
+D:\c#\DomStrings\22.DifferentWords\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\DomStrings\22.DifferentWords\obj\x86\Debug\22.DifferentWords.exe
+D:\c#\DomStrings\22.DifferentWords\obj\x86\Debug\22.DifferentWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\22.DifferentWords\bin\Debug\22.DifferentWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\22.DifferentWords\bin\Debug\22.DifferentWords.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\22.DifferentWords\obj\x86\Debug\22.DifferentWords.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\DomStrings\22.DifferentWords\obj\x86\Debug\22.DifferentWords.pdb

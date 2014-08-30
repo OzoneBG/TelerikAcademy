@@ -1,0 +1,5 @@
+c:\users\misho\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Five_Variables\bin\Debug\Five_Variables.exe
+c:\users\misho\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Five_Variables\bin\Debug\Five_Variables.pdb
+c:\users\misho\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Five_Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\misho\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Five_Variables\obj\x86\Debug\Five_Variables.exe
+c:\users\misho\documents\visual studio 2010\Projects\Homework-Data-Types-and-Variables\Five_Variables\obj\x86\Debug\Five_Variables.pdb

@@ -1,0 +1,4 @@
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\10. Has value of 1\bin\Debug\_10.Has_value_of_1.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\10. Has value of 1\bin\Debug\_10.Has_value_of_1.pdb
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\10. Has value of 1\obj\x86\Debug\_10.Has_value_of_1.exe
+C:\Users\MISHO\documents\visual studio 2010\Projects\HW-Operators_Expressions_and_statements\10. Has value of 1\obj\x86\Debug\_10.Has_value_of_1.pdb

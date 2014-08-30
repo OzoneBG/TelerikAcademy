@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Marketing_Firm\bin\Debug\Marketing_Firm.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Marketing_Firm\bin\Debug\Marketing_Firm.pdb
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Marketing_Firm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Marketing_Firm\obj\x86\Debug\Marketing_Firm.exe
+C:\Users\MISHO\Documents\Visual Studio 2010\Projects\Homework-Data-Types-and-Variables\Marketing_Firm\obj\x86\Debug\Marketing_Firm.pdb

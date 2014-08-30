@@ -1,0 +1,5 @@
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\5. Sort Strings\bin\Debug\_5.Sort_Strings.exe.config
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\5. Sort Strings\bin\Debug\_5.Sort_Strings.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\5. Sort Strings\bin\Debug\_5.Sort_Strings.pdb
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\5. Sort Strings\obj\Debug\_5.Sort_Strings.exe
+C:\Users\MISHO\Documents\Visual Studio 2012\Projects\HW-Multidimensional Arrays\5. Sort Strings\obj\Debug\_5.Sort_Strings.pdb
